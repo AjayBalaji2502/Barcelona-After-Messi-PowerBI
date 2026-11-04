@@ -24,7 +24,10 @@ The cleaned dataset was loaded into Power BI to build interactive dashboards.
 --> Interactive slicers: Filter the dashboard by season to explore the data
 
 Key insights:
-A written summary of the analysis explains how Barcelona played after Messi left and how the club recovered.
+A written summary of the analysis explains how Barcelona played after Messi left and how the club recovered;
+--> Losing Messi hit goal output hard. Messi scored 30 of Barcelona's 80 league goals in 2020-21. The season after he left, the team fell to 68 goals, and the top scorer was Memphis with just 12.
+--> Lewandowski became the new main scorer. After joining in 2022-23, Robert Lewandowski was the club's top scorer for three seasons in a row, with 23, 19 and 27 goals.
+--> Barcelona recovered and went past pre-Messi levels. Team goals climbed from 68 (2021-22) to 69, 76, then a peak of 99 in 2024-25, and stayed high at 94 in 2025-26. That season Lamine Yamal led the scoring with 16 goals, which shows a new generation stepping up.
 
 Tools Used:
 --> Python: Data cleaning and preparation
